@@ -1,1 +1,1 @@
-# Python-para-o-estudo-da-linguagem
+# Python para o estudo da linguagem
